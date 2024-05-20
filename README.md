@@ -10,4 +10,6 @@ unarchive released zip file and put them in your spt-aki game folder like `C:\Es
 not need
 
 # attention
-require clear launcher's cache after upgrade or delete this mod.
+require clear launcher's cache after upgrade or uninstall this mod.
+
+before uninstall this mod, make sure that your backpacks has cells for **origin** size.
