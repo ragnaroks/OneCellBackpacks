@@ -1,6 +1,6 @@
 {
     "name": "OneCellBackpacks",
-    "version": "3.8.20240520",
+    "version": "3.8.20240630",
     "main": "src/mod.js",
     "license": "MIT",
     "author": "ragnaroks",

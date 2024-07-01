@@ -62,6 +62,7 @@ class Mod implements IPostDBLoadMod {
             template._props.mousePenalty = 0;
             template._props.speedPenaltyPercent = 0;
             template._props.weaponErgonomicPenalty = 0;
+            template._props.CanSellOnRagfair = true;
         }
 
         logger.warning('[OneCellBackpacks]: backpacks width and height modified');
